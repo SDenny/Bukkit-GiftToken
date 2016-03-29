@@ -1,0 +1,8 @@
+main: com.minecraftport.giftToken.main
+name: GiftPotion
+description: >
+             Adds a special potion that gives you a gift!
+version: 0.1
+commands:
+  gtoken:
+    description: Gives you one gift potion!
